@@ -1,0 +1,49 @@
+{
+	"name": "dist",
+	"version": "1.0.0",
+	"description": "Proyecto para organizador",
+	"main": "index.js",
+	"directories": {
+		"lib": "lib"
+	},
+	"scripts": {
+		"start": "npm"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kcirepunk22misr/organizador-app.git"
+	},
+	"author": "Erick Torres",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kcirepunk22misr/organizador-app/issues"
+	},
+	"homepage": "https://github.com/kcirepunk22misr/organizador-app#readme",
+	"dependencies": {
+		"@types/bcrypt": "^3.0.0",
+		"@types/cors": "^2.8.6",
+		"@types/express": "^4.17.3",
+		"@types/jsonwebtoken": "^8.3.8",
+		"@types/mongoose": "^5.7.7",
+		"@types/mongoose-unique-validator": "^1.0.3",
+		"@types/morgan": "^1.9.0",
+		"@types/multer": "^1.4.2",
+		"@types/socket.io": "^2.1.4",
+		"@types/uuid": "^7.0.2",
+		"bcrypt": "^4.0.1",
+		"colors": "^1.4.0",
+		"concurrently": "^5.1.0",
+		"cors": "^2.8.5",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"fecha": "^4.2.0",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^5.9.6",
+		"mongoose-unique-validator": "^2.0.3",
+		"morgan": "^1.10.0",
+		"multer": "^1.4.2",
+		"socket.io": "^2.3.0",
+		"typescript": "^3.8.3",
+		"uuid": "^7.0.2"
+	}
+}
